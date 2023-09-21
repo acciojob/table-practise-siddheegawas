@@ -1,4 +1,19 @@
 /*  your css code here. If applicable */
 #table{
-	background:yellow;
+	background-color:yellow;
+	border:1px solid black;
+}
+th{
+	background-color:yellow;
+	border:1px solid black;
+}
+tr{
+	background-color:yellow;
+	border:1px solid black;
+	
+}
+td
+{
+	background-color:yellow;
+	border:1px solid black;
 }
